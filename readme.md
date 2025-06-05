@@ -9,6 +9,8 @@ No purpose, just having fun.
 ## Instructions
 
 ```
+git clone https://github.com/zerocool979/flat.git
+cd flat
 npm install
 npm run dev
 ```
